@@ -21,7 +21,7 @@ export function ItemTable({ products,filterText, filter }) {
     <table>
       <thead>
         <tr>
-        <th>id</th>
+          <th>id</th>
           <th>Image</th>
           <th>Year</th>
           <th>Company</th>
