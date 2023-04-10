@@ -1,11 +1,10 @@
-# Getting Started with Create React App
+# React Cars App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project Cars json data is just for demo/representational purpose
 
 ## Available Scripts
 
 Install Dependencies
-
 ### `npm i`
 
 In the project directory, you can run:
@@ -14,3 +13,5 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+You can choose the radio button option to filter and then type in the search box to filter data according to your needs.
