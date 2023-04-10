@@ -10,7 +10,7 @@ export function SearchBar({
                 value={filterText} placeholder="Search..."
                 onChange={(e) => onFilterTextChange(e.target.value)} />
             &emsp;<label>Filter Options : &emsp;</label>
-            <label><input type="radio" id="model" name="filterby" value="model"
+            <label><input type="radio" id="model" name="filterby" value="model" defaultChecked 
                 onChange={(e) => onFilterChange(e.target.value)} />Model
             </label>
             <label>
